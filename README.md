@@ -1,4 +1,4 @@
-gitThis repository serves as a collection of various Arduino projects I've been working on. Here, you'll find a diverse range of projects that showcase different functionalities and applications of the Arduino platform.
+This repository serves as a collection of various Arduino projects I've been working on. Here, you'll find a diverse range of projects that showcase different functionalities and applications of the Arduino platform.
 
 **Getting Started with Arduino**
 If you're new to Arduino, here are some helpful resources to get you started:
